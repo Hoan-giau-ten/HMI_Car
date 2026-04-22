@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 389,
+                        "durationMicroseconds": 268,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 19
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 60,
                         "errorMessage": "Cannot access value for name icon",
                         "functionName": "text",
                         "line": 24
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 38,
+                        "durationMicroseconds": 27,
                         "errorMessage": "Cannot access value for name iconColor",
                         "functionName": "color",
                         "line": 26
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 26,
-                        "durationMicroseconds": 405,
+                        "durationMicroseconds": 347,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 25
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 42,
+                        "durationMicroseconds": 34,
                         "errorMessage": "Cannot access value for name title",
                         "functionName": "text",
                         "line": 35
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 356,
+                        "durationMicroseconds": 167,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 38
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 52,
+                        "durationMicroseconds": 31,
                         "errorMessage": "Cannot access value for name subtitle",
                         "functionName": "text",
                         "line": 42
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 35,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
                         "line": 52
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 26,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
                         "line": 53
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 28,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
                         "line": 61
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 52,
+                        "durationMicroseconds": 33,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "x",
                         "line": 63
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 311,
+                        "durationMicroseconds": 193,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 62
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 79,
-                        "durationMicroseconds": 158,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "type",
                         "line": 65
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 72,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "onClicked",
                         "line": 70
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 114,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 69

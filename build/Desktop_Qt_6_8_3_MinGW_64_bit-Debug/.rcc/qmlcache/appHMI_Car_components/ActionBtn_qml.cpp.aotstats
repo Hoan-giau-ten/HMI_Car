@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 108,
+                        "durationMicroseconds": 110,
                         "errorMessage": "Cannot access value for name labelText",
                         "functionName": "text",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 197,
+                        "durationMicroseconds": 179,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 8
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 106,
-                        "durationMicroseconds": 140,
+                        "durationMicroseconds": 137,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 8
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 41,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/components/ActionBtn.qml)::parent with type QQuickItem does not have a property color for writing",
                         "functionName": "onPressed",
                         "line": 11
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 88,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 10

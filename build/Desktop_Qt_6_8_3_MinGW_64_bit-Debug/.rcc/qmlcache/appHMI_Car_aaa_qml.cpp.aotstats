@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 229,
+                        "durationMicroseconds": 201,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 88,
+                        "durationMicroseconds": 87,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 11
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 136,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 22
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 110,
+                        "durationMicroseconds": 117,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 28
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 106,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 102,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 33
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 205,
+                        "durationMicroseconds": 219,
                         "errorMessage": "",
                         "functionName": "preferredWidth",
                         "line": 60
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 66
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 46,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 77
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 112,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 84
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 87,
+                        "durationMicroseconds": 83,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 112
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 63,
-                        "durationMicroseconds": 364,
+                        "durationMicroseconds": 365,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 113
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 152,
-                        "durationMicroseconds": 173,
+                        "durationMicroseconds": 178,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 113
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 125,
-                        "durationMicroseconds": 101,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 114
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 184,
-                        "durationMicroseconds": 147,
+                        "durationMicroseconds": 167,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 114
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 40,
-                        "durationMicroseconds": 150,
+                        "durationMicroseconds": 193,
                         "errorMessage": "",
                         "functionName": "onPressed",
                         "line": 119
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 125,
+                        "durationMicroseconds": 177,
                         "errorMessage": "",
                         "functionName": "onReleased",
                         "line": 120
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 73,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 118
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 76,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 137
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 75,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 143
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 53,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 169,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 143
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 102,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 146
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 136,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 119,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 147
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 102,
-                        "durationMicroseconds": 82,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 149
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 1281,
+                        "durationMicroseconds": 1950,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "model",
                         "line": 157
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 156,
+                        "durationMicroseconds": 139,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 163
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 74,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 165
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 79,
-                        "durationMicroseconds": 223,
+                        "durationMicroseconds": 237,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "color",
                         "line": 169
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 76,
-                        "durationMicroseconds": 305,
+                        "durationMicroseconds": 301,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 170
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 62,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 90,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 170
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 126,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 170
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 91,
-                        "durationMicroseconds": 107,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 174
@@ -254,7 +254,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 50,
-                        "durationMicroseconds": 279,
+                        "durationMicroseconds": 402,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 175
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 141,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 175
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 54,
-                        "durationMicroseconds": 260,
+                        "durationMicroseconds": 278,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 178
@@ -278,7 +278,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 117,
-                        "durationMicroseconds": 257,
+                        "durationMicroseconds": 256,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "color",
                         "line": 178
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 83,
-                        "durationMicroseconds": 266,
+                        "durationMicroseconds": 256,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 178
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 54,
-                        "durationMicroseconds": 221,
+                        "durationMicroseconds": 246,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 179
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 67,
-                        "durationMicroseconds": 246,
+                        "durationMicroseconds": 254,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 183
@@ -310,7 +310,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 201
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 75,
-                        "durationMicroseconds": 231,
+                        "durationMicroseconds": 113,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 207
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 53,
-                        "durationMicroseconds": 159,
+                        "durationMicroseconds": 149,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 207
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 68,
+                        "durationMicroseconds": 67,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 210
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 138,
-                        "durationMicroseconds": 119,
+                        "durationMicroseconds": 108,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 211
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 69,
-                        "durationMicroseconds": 172,
+                        "durationMicroseconds": 162,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 214
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 119,
-                        "durationMicroseconds": 159,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 215
@@ -374,7 +374,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 59,
-                        "durationMicroseconds": 203,
+                        "durationMicroseconds": 185,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 233
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 122,
-                        "durationMicroseconds": 172,
+                        "durationMicroseconds": 140,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 233
@@ -390,7 +390,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 159,
-                        "durationMicroseconds": 130,
+                        "durationMicroseconds": 140,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 233
@@ -398,7 +398,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 57,
+                        "durationMicroseconds": 66,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 236
@@ -406,7 +406,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 127,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 63,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 239
@@ -414,7 +414,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 175,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 239
@@ -422,7 +422,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 122,
-                        "durationMicroseconds": 97,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 242
@@ -430,7 +430,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 78,
-                        "durationMicroseconds": 363,
+                        "durationMicroseconds": 344,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 245
@@ -438,7 +438,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 85,
-                        "durationMicroseconds": 119,
+                        "durationMicroseconds": 108,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 250
@@ -446,7 +446,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 139,
-                        "durationMicroseconds": 80,
+                        "durationMicroseconds": 73,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 254
@@ -454,7 +454,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 198,
-                        "durationMicroseconds": 328,
+                        "durationMicroseconds": 331,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 254
@@ -462,7 +462,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 296,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 101,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 254
@@ -470,7 +470,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 139,
-                        "durationMicroseconds": 87,
+                        "durationMicroseconds": 74,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 255
@@ -478,7 +478,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 194,
-                        "durationMicroseconds": 334,
+                        "durationMicroseconds": 293,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 255
@@ -486,7 +486,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 287,
-                        "durationMicroseconds": 113,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 255
@@ -494,7 +494,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 91,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 267
@@ -502,7 +502,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 127,
-                        "durationMicroseconds": 62,
+                        "durationMicroseconds": 64,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 270
@@ -510,7 +510,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 167,
-                        "durationMicroseconds": 296,
+                        "durationMicroseconds": 303,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 270
@@ -518,7 +518,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 124,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 130,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 273
@@ -526,7 +526,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 85,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 99,
                         "errorMessage": "",
                         "functionName": "wrapMode",
                         "line": 280

@@ -43,7 +43,6 @@
 			"_qt_internal_process_resource",
 			"qt6_add_resources",
 			"_qt_internal_target_enable_qmlcachegen",
-			"qt_add_resources",
 			"_qt_internal_expose_deferred_files_to_ide"
 		],
 		"files" : 
@@ -107,13 +106,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 64,
+				"line" : 60,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 59,
+				"line" : 55,
 				"parent" : 0
 			},
 			{
@@ -483,7 +482,7 @@
 			{
 				"command" : 14,
 				"file" : 12,
-				"line" : 3482,
+				"line" : 3488,
 				"parent" : 73
 			},
 			{
@@ -491,6 +490,18 @@
 				"file" : 12,
 				"line" : 2887,
 				"parent" : 74
+			},
+			{
+				"command" : 14,
+				"file" : 12,
+				"line" : 3482,
+				"parent" : 73
+			},
+			{
+				"command" : 13,
+				"file" : 12,
+				"line" : 2887,
+				"parent" : 76
 			},
 			{
 				"file" : 1,
@@ -501,48 +512,36 @@
 				"command" : 20,
 				"file" : 25,
 				"line" : 1,
-				"parent" : 76
+				"parent" : 78
 			},
 			{
 				"command" : 19,
 				"file" : 0,
 				"line" : 823,
-				"parent" : 77
+				"parent" : 79
 			},
 			{
 				"command" : 18,
 				"file" : 0,
 				"line" : 745,
-				"parent" : 78
+				"parent" : 80
 			},
 			{
 				"command" : 17,
 				"file" : 0,
 				"line" : 745,
-				"parent" : 79
+				"parent" : 81
 			},
 			{
 				"command" : 16,
 				"file" : 12,
 				"line" : 4361,
-				"parent" : 80
+				"parent" : 82
 			},
 			{
 				"command" : 13,
 				"file" : 12,
 				"line" : 4136,
-				"parent" : 81
-			},
-			{
-				"command" : 14,
-				"file" : 12,
-				"line" : 3488,
-				"parent" : 73
-			},
-			{
-				"command" : 13,
-				"file" : 12,
-				"line" : 2887,
 				"parent" : 83
 			},
 			{
@@ -847,45 +846,15 @@
 			},
 			{
 				"command" : 30,
-				"file" : 1,
-				"line" : 43,
-				"parent" : 0
-			},
-			{
-				"command" : 28,
-				"file" : 0,
-				"line" : 458,
-				"parent" : 135
-			},
-			{
-				"command" : 27,
-				"file" : 0,
-				"line" : 406,
-				"parent" : 136
-			},
-			{
-				"command" : 26,
-				"file" : 0,
-				"line" : 2547,
-				"parent" : 137
-			},
-			{
-				"command" : 23,
-				"file" : 0,
-				"line" : 2089,
-				"parent" : 138
-			},
-			{
-				"command" : 31,
 				"file" : 0,
 				"line" : 817,
-				"parent" : 77
+				"parent" : 79
 			},
 			{
 				"command" : 23,
 				"file" : 0,
 				"line" : 2212,
-				"parent" : 140
+				"parent" : 135
 			}
 		]
 	},
@@ -1194,9 +1163,8 @@
 				37,
 				38,
 				39,
-				40,
-				51,
-				52
+				48,
+				49
 			]
 		},
 		{
@@ -1491,23 +1459,23 @@
 	"dependencies" : 
 	[
 		{
+			"backtrace" : 75,
+			"id" : "appHMI_Car_copy_res::@6890427a1f51a3e7e1df"
+		},
+		{
 			"id" : "appHMI_Car_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 77,
+			"id" : "appHMI_Car_copy_qml::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 84,
+			"id" : "appHMI_Car_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
 			"backtrace" : 0,
 			"id" : "appHMI_Car_autogen::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 75,
-			"id" : "appHMI_Car_copy_qml::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 82,
-			"id" : "appHMI_Car_qmlimportscan::@6890427a1f51a3e7e1df"
-		},
-		{
-			"backtrace" : 84,
-			"id" : "appHMI_Car_copy_res::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appHMI_Car::@6890427a1f51a3e7e1df",
@@ -1683,9 +1651,13 @@
 			"sourceIndexes" : 
 			[
 				0,
-				50,
-				51,
-				52,
+				47,
+				48,
+				49,
+				74,
+				75,
+				76,
+				77,
 				78,
 				79,
 				80,
@@ -1695,11 +1667,7 @@
 				84,
 				85,
 				86,
-				87,
-				88,
-				89,
-				90,
-				91
+				87
 			]
 		},
 		{
@@ -1741,8 +1709,7 @@
 				36,
 				37,
 				38,
-				39,
-				40
+				39
 			]
 		},
 		{
@@ -1750,9 +1717,8 @@
 			"sourceIndexes" : 
 			[
 				2,
-				42,
-				47,
-				49
+				41,
+				46
 			]
 		},
 		{
@@ -1767,18 +1733,20 @@
 			"name" : "Resources",
 			"sourceIndexes" : 
 			[
-				41,
+				40,
+				42,
 				43,
 				44,
-				45,
-				46,
-				48
+				45
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
+				50,
+				51,
+				52,
 				53,
 				54,
 				55,
@@ -1799,11 +1767,7 @@
 				70,
 				71,
 				72,
-				73,
-				74,
-				75,
-				76,
-				77
+				73
 			]
 		}
 	],
@@ -2054,61 +2018,43 @@
 			"sourceGroupIndex" : 1
 		},
 		{
-			"backtrace" : 139,
-			"compileGroupIndex" : 0,
-			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qrc_fonts.cpp",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qmake_HMI_Car.qrc",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/HMI_Car/qmldir",
 			"sourceGroupIndex" : 2
 		},
 		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/appHMI_Car_raw_qml_0.qrc",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"path" : "images.qrc",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"path" : "font.qrc",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/appHMI_Car_raw_qml_0_extra_qmldirs.qrc",
 			"sourceGroupIndex" : 4
 		},
 		{
-			"backtrace" : 141,
+			"backtrace" : 136,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/HMI_Car/components/qmldir",
-			"sourceGroupIndex" : 2
-		},
-		{
-			"backtrace" : 141,
-			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/fonts.qrc",
-			"sourceGroupIndex" : 4
-		},
-		{
-			"backtrace" : 141,
-			"path" : "font/MaterialSymbolsOutlined.ttf",
 			"sourceGroupIndex" : 2
 		},
 		{
@@ -2249,12 +2195,6 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qrc_appHMI_Car_raw_qml_0_extra_qmldirs.cpp.rule",
-			"sourceGroupIndex" : 5
-		},
-		{
-			"backtrace" : 0,
-			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qrc_fonts.cpp.rule",
 			"sourceGroupIndex" : 5
 		},
 		{

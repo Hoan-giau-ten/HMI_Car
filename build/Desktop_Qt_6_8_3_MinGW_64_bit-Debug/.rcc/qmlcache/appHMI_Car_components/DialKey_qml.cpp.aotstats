@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 284,
+                        "durationMicroseconds": 339,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 11
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 73,
+                        "durationMicroseconds": 89,
                         "errorMessage": "Cannot access value for name number",
                         "functionName": "text",
                         "line": 12
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 118,
-                        "durationMicroseconds": 199,
+                        "durationMicroseconds": 219,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 12
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 41,
                         "errorMessage": "Cannot access value for name letters",
                         "functionName": "text",
                         "line": 13
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 81,
-                        "durationMicroseconds": 115,
+                        "durationMicroseconds": 135,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 13
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 141,
-                        "durationMicroseconds": 185,
+                        "durationMicroseconds": 179,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 13
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 50,
                         "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/components/DialKey.qml)::parent with type QQuickItem does not have a property color for writing",
                         "functionName": "onPressed",
                         "line": 18
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 29,
+                        "durationMicroseconds": 39,
                         "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/components/DialKey.qml)::parent with type QQuickItem does not have a property color for writing",
                         "functionName": "onReleased",
                         "line": 19
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 17

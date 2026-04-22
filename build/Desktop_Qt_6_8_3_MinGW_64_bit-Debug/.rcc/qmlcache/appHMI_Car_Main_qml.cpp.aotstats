@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 37,
-                        "durationMicroseconds": 236,
+                        "durationMicroseconds": 379,
                         "errorMessage": "",
                         "functionName": "globalIconFont",
                         "line": 25
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 122,
+                        "durationMicroseconds": 236,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 36
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 45,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 182,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 36
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 64,
-                        "durationMicroseconds": 89,
+                        "durationMicroseconds": 161,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 36
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 91,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 41
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 71,
+                        "durationMicroseconds": 185,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 48
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 64,
+                        "durationMicroseconds": 125,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 50
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 56
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 82,
+                        "durationMicroseconds": 142,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 57
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 141,
-                        "durationMicroseconds": 94,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 57
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 219,
+                        "durationMicroseconds": 365,
                         "errorMessage": "Cannot access value for name Backend",
                         "functionName": "text",
                         "line": 60
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 120,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 143,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 60
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 156,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 169,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 60
@@ -110,23 +110,15 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 93,
-                        "durationMicroseconds": 102,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "baseline",
                         "line": 61
                     },
                     {
-                        "codegenSuccessfull": true,
-                        "column": 134,
-                        "durationMicroseconds": 87,
-                        "errorMessage": "",
-                        "functionName": "verticalCenter",
-                        "line": 61
-                    },
-                    {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 873,
+                        "durationMicroseconds": 1815,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "model",
                         "line": 70
@@ -134,7 +126,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 179,
+                        "durationMicroseconds": 354,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 79
@@ -142,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 152,
+                        "durationMicroseconds": 319,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "color",
                         "line": 82
@@ -150,7 +142,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 38,
-                        "durationMicroseconds": 20,
+                        "durationMicroseconds": 51,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 80
@@ -158,7 +150,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 16,
-                        "durationMicroseconds": 345,
+                        "durationMicroseconds": 749,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 96
@@ -166,7 +158,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 193,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 95
@@ -174,7 +166,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 106,
+                        "durationMicroseconds": 210,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 95
@@ -182,7 +174,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 66,
-                        "durationMicroseconds": 81,
+                        "durationMicroseconds": 249,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 95
@@ -190,7 +182,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 95,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 100
@@ -198,7 +190,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 41,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 50,
                         "errorMessage": "Cannot access value for name activeTab",
                         "functionName": "isActive",
                         "line": 107
@@ -206,7 +198,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 548,
+                        "durationMicroseconds": 905,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 111
@@ -214,7 +206,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 196,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 112
@@ -222,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 239,
+                        "durationMicroseconds": 379,
                         "errorMessage": "",
                         "functionName": "color",
                         "line": 113
@@ -230,7 +222,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 63,
+                        "durationMicroseconds": 148,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 116
@@ -238,7 +230,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 30,
-                        "durationMicroseconds": 48,
+                        "durationMicroseconds": 91,
                         "errorMessage": "Cannot load property isActive from (component in C:/Users/ADMIN/Documents/QT/HMI_car/Main.qml)::parent with type QQuickItem.",
                         "functionName": "visible",
                         "line": 119
@@ -246,7 +238,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 90,
+                        "durationMicroseconds": 169,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 117
@@ -254,7 +246,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 86,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 123
@@ -262,7 +254,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 47,
                         "errorMessage": "Cannot access value for name iconCode",
                         "functionName": "text",
                         "line": 126
@@ -270,7 +262,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 32,
                         "errorMessage": "Cannot access value for name isActive",
                         "functionName": "color",
                         "line": 129
@@ -278,7 +270,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 38,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 32,
                         "errorMessage": "Cannot access value for name materialFont",
                         "functionName": "family",
                         "line": 127
@@ -286,7 +278,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 92,
+                        "durationMicroseconds": 182,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 130
@@ -294,7 +286,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 50,
                         "errorMessage": "Cannot access value for name labelText",
                         "functionName": "text",
                         "line": 133
@@ -302,7 +294,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 17,
+                        "durationMicroseconds": 31,
                         "errorMessage": "Cannot access value for name isActive",
                         "functionName": "color",
                         "line": 136
@@ -310,7 +302,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 38,
-                        "durationMicroseconds": 19,
+                        "durationMicroseconds": 32,
                         "errorMessage": "Cannot access value for name isActive",
                         "functionName": "weight",
                         "line": 135
@@ -318,7 +310,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 175,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 137
@@ -326,7 +318,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 32,
-                        "durationMicroseconds": 18,
+                        "durationMicroseconds": 34,
                         "errorMessage": "Cannot access value for name labelText",
                         "functionName": "onClicked",
                         "line": 143
@@ -334,7 +326,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 75,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 142
@@ -342,7 +334,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 93,
+                        "durationMicroseconds": 178,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 165
@@ -350,7 +342,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 158,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 165
@@ -358,7 +350,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 66,
-                        "durationMicroseconds": 80,
+                        "durationMicroseconds": 140,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 165
@@ -366,7 +358,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 89,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 141,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 165
@@ -374,7 +366,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 22,
+                        "durationMicroseconds": 49,
                         "errorMessage": "Cannot access value for name activeTab",
                         "functionName": "source",
                         "line": 170
@@ -382,7 +374,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 42,
+                        "durationMicroseconds": 87,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 169
@@ -390,7 +382,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 22,
-                        "durationMicroseconds": 21,
+                        "durationMicroseconds": 52,
                         "errorMessage": "Cannot access value for name activeTab",
                         "functionName": "visible",
                         "line": 182
@@ -398,7 +390,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 14,
+                        "durationMicroseconds": 24,
                         "errorMessage": "Cannot access value for name activeTab",
                         "functionName": "text",
                         "line": 183
@@ -406,7 +398,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 78,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 181
@@ -414,7 +406,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 25,
-                        "durationMicroseconds": 86,
+                        "durationMicroseconds": 156,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 195
@@ -422,7 +414,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 107,
+                        "durationMicroseconds": 146,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 195
@@ -430,7 +422,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 69,
-                        "durationMicroseconds": 80,
+                        "durationMicroseconds": 149,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 195
@@ -438,7 +430,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 100,
+                        "durationMicroseconds": 166,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 200
@@ -446,7 +438,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 52,
-                        "durationMicroseconds": 79,
+                        "durationMicroseconds": 207,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 200
@@ -454,7 +446,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 72,
-                        "durationMicroseconds": 79,
+                        "durationMicroseconds": 184,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 200
@@ -462,7 +454,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 37,
+                        "durationMicroseconds": 81,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 206
@@ -470,7 +462,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 113,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 213
@@ -478,7 +470,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 64,
-                        "durationMicroseconds": 56,
+                        "durationMicroseconds": 110,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 218
@@ -486,7 +478,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 74,
-                        "durationMicroseconds": 163,
+                        "durationMicroseconds": 283,
                         "errorMessage": "Cannot access value for name ClimateAPI",
                         "functionName": "onClicked",
                         "line": 219
@@ -494,7 +486,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 99,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 219
@@ -502,7 +494,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 42,
-                        "durationMicroseconds": 183,
+                        "durationMicroseconds": 347,
                         "errorMessage": "Cannot access value for name ClimateAPI",
                         "functionName": "text",
                         "line": 224
@@ -510,7 +502,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 120,
-                        "durationMicroseconds": 65,
+                        "durationMicroseconds": 120,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 224
@@ -518,7 +510,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 157,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 224
@@ -526,7 +518,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 139,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 156,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 225
@@ -534,7 +526,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 57,
+                        "durationMicroseconds": 129,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 230
@@ -542,7 +534,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 74,
-                        "durationMicroseconds": 148,
+                        "durationMicroseconds": 277,
                         "errorMessage": "Cannot access value for name ClimateAPI",
                         "functionName": "onClicked",
                         "line": 231
@@ -550,7 +542,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 40,
+                        "durationMicroseconds": 87,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 231
@@ -558,7 +550,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 60,
+                        "durationMicroseconds": 122,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 244
@@ -566,7 +558,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 148,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 187,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 244
@@ -574,7 +566,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 140,
-                        "durationMicroseconds": 81,
+                        "durationMicroseconds": 139,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 245
@@ -582,7 +574,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 346,
+                        "durationMicroseconds": 593,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 250
@@ -590,7 +582,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 60,
-                        "durationMicroseconds": 312,
+                        "durationMicroseconds": 581,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 252
@@ -598,7 +590,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 47,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 255
@@ -606,7 +598,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 69,
-                        "durationMicroseconds": 70,
+                        "durationMicroseconds": 217,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 256
@@ -614,7 +606,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 152,
-                        "durationMicroseconds": 88,
+                        "durationMicroseconds": 172,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 256
@@ -622,7 +614,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 161,
-                        "durationMicroseconds": 92,
+                        "durationMicroseconds": 171,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 257
@@ -630,7 +622,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 57,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 262
@@ -638,7 +630,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 148,
-                        "durationMicroseconds": 83,
+                        "durationMicroseconds": 152,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 262
@@ -646,7 +638,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 137,
-                        "durationMicroseconds": 82,
+                        "durationMicroseconds": 169,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 263
@@ -654,7 +646,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 124,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 273
@@ -662,7 +654,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 64,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 278
@@ -670,7 +662,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 74,
-                        "durationMicroseconds": 151,
+                        "durationMicroseconds": 313,
                         "errorMessage": "Cannot access value for name ClimateAPI",
                         "functionName": "onClicked",
                         "line": 279
@@ -678,7 +670,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 279
@@ -686,7 +678,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 42,
-                        "durationMicroseconds": 175,
+                        "durationMicroseconds": 307,
                         "errorMessage": "Cannot access value for name ClimateAPI",
                         "functionName": "text",
                         "line": 284
@@ -694,7 +686,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 121,
-                        "durationMicroseconds": 61,
+                        "durationMicroseconds": 109,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 284
@@ -702,7 +694,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 158,
-                        "durationMicroseconds": 88,
+                        "durationMicroseconds": 164,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 284
@@ -710,7 +702,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 139,
-                        "durationMicroseconds": 85,
+                        "durationMicroseconds": 150,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 285
@@ -718,7 +710,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 65,
-                        "durationMicroseconds": 55,
+                        "durationMicroseconds": 106,
                         "errorMessage": "",
                         "functionName": "family",
                         "line": 290
@@ -726,7 +718,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 74,
-                        "durationMicroseconds": 135,
+                        "durationMicroseconds": 271,
                         "errorMessage": "Cannot access value for name ClimateAPI",
                         "functionName": "onClicked",
                         "line": 291
@@ -734,7 +726,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 55,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 76,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 291
