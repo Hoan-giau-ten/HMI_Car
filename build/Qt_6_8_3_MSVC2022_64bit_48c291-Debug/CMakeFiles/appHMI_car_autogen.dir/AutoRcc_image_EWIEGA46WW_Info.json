@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/appHMI_car_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/ADMIN/Documents/QT/HMI_car",
+	"CMAKE_SOURCE_DIR" : "C:/Users/ADMIN/Documents/QT/HMI_car",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/appHMI_car_autogen/include",
+	"INPUTS" : [ "C:/Users/ADMIN/Documents/QT/HMI_car/image/avatar.jpg" ],
+	"LOCK_FILE" : "C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/CMakeFiles/appHMI_car_autogen.dir/AutoRcc_image_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "image" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_image.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.3/msvc2022_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/CMakeFiles/appHMI_car_autogen.dir/AutoRcc_image_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/ADMIN/Documents/QT/HMI_car/image.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

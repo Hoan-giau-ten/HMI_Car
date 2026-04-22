@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="/qt/qml/HMI_Car/">
+    <file alias="Main.qml">C:/Users/ADMIN/Documents/QT/HMI_car/Main.qml</file>
+    <file alias="Style.qml">C:/Users/ADMIN/Documents/QT/HMI_car/Style.qml</file>
+    <file alias="MediaScreen.qml">C:/Users/ADMIN/Documents/QT/HMI_car/MediaScreen.qml</file>
+    <file alias="VehicleScreen.qml">C:/Users/ADMIN/Documents/QT/HMI_car/VehicleScreen.qml</file>
+    <file alias="SettingsScreen.qml">C:/Users/ADMIN/Documents/QT/HMI_car/SettingsScreen.qml</file>
+    <file alias="PhoneScreen.qml">C:/Users/ADMIN/Documents/QT/HMI_car/PhoneScreen.qml</file>
+    <file alias="HomeScreen.qml">C:/Users/ADMIN/Documents/QT/HMI_car/HomeScreen.qml</file>
+    <file alias="aaa.qml">C:/Users/ADMIN/Documents/QT/HMI_car/aaa.qml</file>
+    <file alias="components/NavButton.qml">C:/Users/ADMIN/Documents/QT/HMI_car/components/NavButton.qml</file>
+    <file alias="components/ActionBtn.qml">C:/Users/ADMIN/Documents/QT/HMI_car/components/ActionBtn.qml</file>
+    <file alias="components/TireLabel.qml">C:/Users/ADMIN/Documents/QT/HMI_car/components/TireLabel.qml</file>
+    <file alias="components/AdasToggle.qml">C:/Users/ADMIN/Documents/QT/HMI_car/components/AdasToggle.qml</file>
+    <file alias="components/HeaderBtn.qml">C:/Users/ADMIN/Documents/QT/HMI_car/components/HeaderBtn.qml</file>
+    <file alias="components/DialKey.qml">C:/Users/ADMIN/Documents/QT/HMI_car/components/DialKey.qml</file>
+    <file alias="images.qrc">C:/Users/ADMIN/Documents/QT/HMI_car/images.qrc</file>
+    <file alias="font.qrc">C:/Users/ADMIN/Documents/QT/HMI_car/font.qrc</file>
+  </qresource>
+</RCC>
+

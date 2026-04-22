@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 15,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "Cannot access value for name title",
+                        "functionName": "text",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 66,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 10
+                    }
+                ],
+                "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/TabPlaceholder.qml"
+            }
+        ],
+        "moduleId": "HMI_car(appHMI_car)"
+    }
+]

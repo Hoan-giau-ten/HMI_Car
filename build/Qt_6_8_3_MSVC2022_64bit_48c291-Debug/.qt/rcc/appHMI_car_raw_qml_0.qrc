@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/HMI_Car/">
+    <file alias="Main.qml">C:/Users/ADMIN/Documents/QT/HMI_car/Main.qml</file>
+  </qresource>
+</RCC>
+

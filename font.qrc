@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/font">
+        <file alias="MaterialSymbolsOutlined.ttf">font/MaterialSymbolsOutlined.ttf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,460 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 244,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 726,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 102,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 31
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 201,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 39
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 129,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 40
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 130,
+                        "durationMicroseconds": 105,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 60,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 412,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 53
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 40,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "loops",
+                        "line": 55
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 296,
+                        "errorMessage": "",
+                        "functionName": "to",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 90,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "duration",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 121,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 56
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 55,
+                        "durationMicroseconds": 266,
+                        "errorMessage": "",
+                        "functionName": "to",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 90,
+                        "durationMicroseconds": 107,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "duration",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 121,
+                        "durationMicroseconds": 104,
+                        "errorMessage": "",
+                        "functionName": "type",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 79,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 72
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 48,
+                        "durationMicroseconds": 223,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 77,
+                        "durationMicroseconds": 103,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 93
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 62,
+                        "durationMicroseconds": 405,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 95
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 72,
+                        "durationMicroseconds": 330,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 58,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 94,
+                        "durationMicroseconds": 388,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 68,
+                        "durationMicroseconds": 910,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 342,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 577,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 28,
+                        "durationMicroseconds": 663,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 140
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 204,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 65,
+                        "durationMicroseconds": 489,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 141
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 144
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "Cannot access value for name icon",
+                        "functionName": "text",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 91,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name active",
+                        "functionName": "color",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 57,
+                        "durationMicroseconds": 344,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 169,
+                        "durationMicroseconds": 243,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 145
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name label",
+                        "functionName": "text",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 36,
+                        "errorMessage": "Cannot access value for name active",
+                        "functionName": "color",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 117,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 177,
+                        "durationMicroseconds": 2057,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 146
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 134,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 164
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 124,
+                        "durationMicroseconds": 133,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 169
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 36,
+                        "durationMicroseconds": 106,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 182
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "width",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 78,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 183
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 98,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 186
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 79,
+                        "durationMicroseconds": 117,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 333,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "text",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 115,
+                        "durationMicroseconds": 407,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 185,
+                        "durationMicroseconds": 188,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 190
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 43,
+                        "durationMicroseconds": 248,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "text",
+                        "line": 194
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 229,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "color",
+                        "line": 196
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 227,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "family",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 53,
+                        "durationMicroseconds": 220,
+                        "errorMessage": "Cannot access value for name index",
+                        "functionName": "pixelSize",
+                        "line": 197
+                    }
+                ],
+                "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/MediaScreen.qml"
+            }
+        ],
+        "moduleId": "HMI_Car(appHMI_Car)"
+    }
+]

@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appHMI_Car_FILE C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/appHMI_Car.exe)
+set(__QT_DEPLOY_TARGET_appHMI_Car_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appHMI_Car_RUNTIME_DLLS C:/Qt/6.8.3/msvc2022_64/bin/Qt6Quickd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlMetad.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlWorkerScriptd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6QmlModelsd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Qmld.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Networkd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6OpenGLd.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Guid.dll;C:/Qt/6.8.3/msvc2022_64/bin/Qt6Cored.dll)

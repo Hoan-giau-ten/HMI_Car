@@ -1,0 +1,14 @@
+-rootPath
+C:/Users/ADMIN/Documents/QT/HMI_car
+-cmake-output
+-output-file
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/.qt/qml_imports/appHMI_Car_build.cmake
+-importPath
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/HMI_Car
+-importPath
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug
+-importPath
+C:/Qt/6.8.3/msvc2022_64/qml
+-qrcFiles
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/.qt/rcc/qmake_HMI_Car.qrc
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/.qt/rcc/appHMI_Car_raw_qml_0.qrc

@@ -1,0 +1,380 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 19,
+                        "durationMicroseconds": 230,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 8
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 23,
+                        "durationMicroseconds": 92,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 242,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 26
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 32,
+                        "durationMicroseconds": 278,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 60,
+                        "durationMicroseconds": 494,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 89,
+                        "durationMicroseconds": 172,
+                        "errorMessage": "",
+                        "functionName": "radius",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 997,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 120,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 45
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 132,
+                        "errorMessage": "",
+                        "functionName": "fillMode",
+                        "line": 54
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 52
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 82,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 116,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 57
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 83,
+                        "durationMicroseconds": 970,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 119,
+                        "durationMicroseconds": 287,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 58
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 82,
+                        "durationMicroseconds": 306,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 119,
+                        "durationMicroseconds": 213,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 83,
+                        "durationMicroseconds": 449,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 122,
+                        "durationMicroseconds": 262,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 60
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 162,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 64
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 378,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 39,
+                        "durationMicroseconds": 664,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 80
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 122,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 79
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 46,
+                        "durationMicroseconds": 298,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 81
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 44,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/VehicleScreen.qml)::parent with type QQuickItem does not have a property color for writing",
+                        "functionName": "onPressed",
+                        "line": 88
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 45,
+                        "durationMicroseconds": 24,
+                        "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/VehicleScreen.qml)::parent with type QQuickItem does not have a property color for writing",
+                        "functionName": "onReleased",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 87
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 475,
+                        "errorMessage": "",
+                        "functionName": "preferredWidth",
+                        "line": 99
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 111
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 133
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 90,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 136
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 68,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 147
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 94,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 150
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 67,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 162
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 46,
+                        "durationMicroseconds": 89,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 165
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 34,
+                        "durationMicroseconds": 163,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 181
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 38,
+                        "durationMicroseconds": 121,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 213
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 83,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 441,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 129,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 110,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 276
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 54,
+                        "durationMicroseconds": 363,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 283
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 54,
+                        "durationMicroseconds": 125,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 296
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 99,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 309
+                    }
+                ],
+                "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/VehicleScreen.qml"
+            }
+        ],
+        "moduleId": "HMI_Car(appHMI_Car)"
+    }
+]

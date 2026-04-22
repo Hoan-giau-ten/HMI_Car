@@ -1,0 +1,5 @@
+module HMI_Car
+typeinfo appHMI_Car.qmltypes
+prefer :/qt/qml/HMI_Car/
+Main 1.0 Main.qml
+

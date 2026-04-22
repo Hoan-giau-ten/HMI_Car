@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="font/MaterialSymbolsOutlined.ttf">C:/Users/ADMIN/Documents/QT/HMI_car/font/MaterialSymbolsOutlined.ttf</file>
+  </qresource>
+</RCC>
+

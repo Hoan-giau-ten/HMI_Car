@@ -1,0 +1,100 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 12,
+                        "durationMicroseconds": 799,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 10
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 468,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 91,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 15
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name title",
+                        "functionName": "text",
+                        "line": 19
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 26,
+                        "durationMicroseconds": 183,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 171,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 24
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 28
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 23,
+                        "durationMicroseconds": 33,
+                        "errorMessage": "Cannot access value for name psi",
+                        "functionName": "text",
+                        "line": 33
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 50,
+                        "durationMicroseconds": 93,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 35
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 100,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "baseline",
+                        "line": 43
+                    }
+                ],
+                "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/components/TireLabel.qml"
+            }
+        ],
+        "moduleId": "HMI_Car(appHMI_Car)"
+    }
+]

@@ -1,0 +1,10 @@
+-I
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug
+-I
+C:/Qt/6.8.3/msvc2022_64/qml
+--resource
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/.qt/rcc/qmake_HMI_Car.qrc
+--resource
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Qt_6_8_3_MSVC2022_64bit_48c291-Debug/.qt/rcc/appHMI_Car_raw_qml_0.qrc
+--module
+HMI_Car

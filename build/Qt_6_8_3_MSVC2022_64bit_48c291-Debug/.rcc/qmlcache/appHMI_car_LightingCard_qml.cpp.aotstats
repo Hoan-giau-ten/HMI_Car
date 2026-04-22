@@ -1,0 +1,132 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 61,
+                        "durationMicroseconds": 270,
+                        "errorMessage": "Cannot access value for name Card",
+                        "functionName": "sourceComponent",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 166,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 9
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 11
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 50,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 155,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 34,
+                        "durationMicroseconds": 368,
+                        "errorMessage": "Cannot access value for name textPrimary",
+                        "functionName": "onPaint",
+                        "line": 22
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 124,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 21
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 87,
+                        "durationMicroseconds": 237,
+                        "errorMessage": "Cannot access value for name textPrimary",
+                        "functionName": "color",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 120,
+                        "durationMicroseconds": 11,
+                        "errorMessage": "Cannot access value for name parent",
+                        "functionName": "y",
+                        "line": 42
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 44
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 127,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 46
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 55,
+                        "durationMicroseconds": 0,
+                        "errorMessage": "Could not find property \"color\".",
+                        "functionName": "color",
+                        "line": 47
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 142,
+                        "durationMicroseconds": 422,
+                        "errorMessage": "Cannot access value for name textSecondary",
+                        "functionName": "color",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 111,
+                        "durationMicroseconds": 59,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 48
+                    }
+                ],
+                "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/LightingCard.qml"
+            }
+        ],
+        "moduleId": "HMI_car(appHMI_car)"
+    }
+]

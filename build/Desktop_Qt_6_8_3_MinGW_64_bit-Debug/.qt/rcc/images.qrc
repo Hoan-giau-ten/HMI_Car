@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/images">
+    <file alias="images/image_vehicle.png">C:/Users/ADMIN/Documents/QT/HMI_car/images/image_vehicle.png</file>
+  </qresource>
+</RCC>
+

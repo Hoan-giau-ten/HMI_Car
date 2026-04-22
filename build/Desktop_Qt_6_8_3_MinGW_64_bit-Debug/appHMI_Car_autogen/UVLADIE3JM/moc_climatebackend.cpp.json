@@ -1,0 +1,90 @@
+{
+    "classes": [
+        {
+            "className": "ClimateBackend",
+            "lineNumber": 6,
+            "methods": [
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "increaseLeftTemp",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "decreaseLeftTemp",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 4,
+                    "name": "increaseRightTemp",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 5,
+                    "name": "decreaseRightTemp",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 0,
+                    "name": "leftTemp",
+                    "notify": "leftTempChanged",
+                    "read": "leftTemp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setLeftTemp"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": true,
+                    "index": 1,
+                    "name": "rightTemp",
+                    "notify": "rightTempChanged",
+                    "read": "rightTemp",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setRightTemp"
+                }
+            ],
+            "qualifiedClassName": "ClimateBackend",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "leftTempChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "rightTempChanged",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "climatebackend.h",
+    "outputRevision": 68
+}

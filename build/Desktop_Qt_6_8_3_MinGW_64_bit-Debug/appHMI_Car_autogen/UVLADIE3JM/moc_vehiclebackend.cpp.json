@@ -1,0 +1,128 @@
+{
+    "classes": [
+        {
+            "className": "VehicleBackend",
+            "lineNumber": 7,
+            "methods": [
+                {
+                    "access": "public",
+                    "arguments": [
+                        {
+                            "name": "driving",
+                            "type": "bool"
+                        }
+                    ],
+                    "index": 5,
+                    "name": "setIsDriving",
+                    "returnType": "void"
+                }
+            ],
+            "object": true,
+            "properties": [
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 0,
+                    "name": "batteryLevel",
+                    "notify": "batteryLevelChanged",
+                    "read": "batteryLevel",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setBatteryLevel"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 1,
+                    "name": "speed",
+                    "notify": "speedChanged",
+                    "read": "speed",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setSpeed"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 2,
+                    "name": "range",
+                    "notify": "rangeChanged",
+                    "read": "range",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "int",
+                    "user": false,
+                    "write": "setRange"
+                },
+                {
+                    "constant": false,
+                    "designable": true,
+                    "final": false,
+                    "index": 3,
+                    "name": "isDriving",
+                    "notify": "isDrivingChanged",
+                    "read": "isDriving",
+                    "required": false,
+                    "scriptable": true,
+                    "stored": true,
+                    "type": "bool",
+                    "user": false,
+                    "write": "setIsDriving"
+                }
+            ],
+            "qualifiedClassName": "VehicleBackend",
+            "signals": [
+                {
+                    "access": "public",
+                    "index": 0,
+                    "name": "batteryLevelChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 1,
+                    "name": "speedChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 2,
+                    "name": "rangeChanged",
+                    "returnType": "void"
+                },
+                {
+                    "access": "public",
+                    "index": 3,
+                    "name": "isDrivingChanged",
+                    "returnType": "void"
+                }
+            ],
+            "slots": [
+                {
+                    "access": "private",
+                    "index": 4,
+                    "name": "updateSimulation",
+                    "returnType": "void"
+                }
+            ],
+            "superClasses": [
+                {
+                    "access": "public",
+                    "name": "QObject"
+                }
+            ]
+        }
+    ],
+    "inputFile": "vehiclebackend.h",
+    "outputRevision": 68
+}

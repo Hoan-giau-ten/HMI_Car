@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="image_carItem.png">image/image_carItem.png</file>
+        <file alias="image_song.png">image/image_song.png</file>
+        <file alias="image_vehicle.png">image/image_vehicle.png</file>
+        <file alias="img_avt_1.png">image/img_avt_1.png</file>
+        <file alias="img_avt_2.png">image/img_avt_2.png</file>
+        <file alias="img_avt-3.png">image/img_avt-3.png</file>
+        <file alias="img_main_song.png">image/img_main_song.png</file>
+        <file alias="img_song_1.png">image/img_song_1.png</file>
+        <file alias="img_song_2.png">image/img_song_2.png</file>
+        <file alias="img_song_3.png">image/img_song_3.png</file>
+        <file alias="img_song_4.png">image/img_song_4.png</file>
+        <file alias="img_song_5.png">image/img_song_5.png</file>
+    </qresource>
+</RCC>

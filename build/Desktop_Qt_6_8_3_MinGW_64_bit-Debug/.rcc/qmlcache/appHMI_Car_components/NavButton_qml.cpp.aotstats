@@ -1,0 +1,588 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 37,
+                        "durationMicroseconds": 282,
+                        "errorMessage": "",
+                        "functionName": "globalIconFont",
+                        "line": 25
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 218,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 45,
+                        "durationMicroseconds": 180,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 64,
+                        "durationMicroseconds": 246,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 36
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 88,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 41
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 30,
+                        "durationMicroseconds": 119,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 48
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 116,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 50
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 1673,
+                        "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
+                        "functionName": "model",
+                        "line": 59
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 381,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "text",
+                        "line": 68
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 279,
+                        "errorMessage": "Cannot access value for name modelData",
+                        "functionName": "color",
+                        "line": 71
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 43,
+                        "errorMessage": "Cannot access value for name mainWindow",
+                        "functionName": "family",
+                        "line": 69
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 16,
+                        "durationMicroseconds": 664,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 85
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 199,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 146,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 66,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 84
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 89
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 42,
+                        "errorMessage": "Cannot access value for name activeTab",
+                        "functionName": "isActive",
+                        "line": 96
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 727,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: conversion to QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 100
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 179,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 101
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 358,
+                        "errorMessage": "",
+                        "functionName": "color",
+                        "line": 102
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 105
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 82,
+                        "errorMessage": "Cannot load property isActive from (component in C:/Users/ADMIN/Documents/QT/HMI_car/components/NavButton.qml)::parent with type QQuickItem.",
+                        "functionName": "visible",
+                        "line": 108
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 36,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 106
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 39,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 112
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "Cannot access value for name iconCode",
+                        "functionName": "text",
+                        "line": 115
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name isActive",
+                        "functionName": "color",
+                        "line": 118
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name materialFont",
+                        "functionName": "family",
+                        "line": 116
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 135,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 119
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 31,
+                        "durationMicroseconds": 31,
+                        "errorMessage": "Cannot access value for name labelText",
+                        "functionName": "text",
+                        "line": 122
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 27,
+                        "errorMessage": "Cannot access value for name isActive",
+                        "functionName": "color",
+                        "line": 125
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 38,
+                        "durationMicroseconds": 26,
+                        "errorMessage": "Cannot access value for name isActive",
+                        "functionName": "weight",
+                        "line": 124
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 51,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 126
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 32,
+                        "durationMicroseconds": 29,
+                        "errorMessage": "Cannot access value for name labelText",
+                        "functionName": "onClicked",
+                        "line": 132
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 64,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 131
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 131,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 66,
+                        "durationMicroseconds": 136,
+                        "errorMessage": "",
+                        "functionName": "top",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 89,
+                        "durationMicroseconds": 139,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 154
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 21,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot access value for name activeTab",
+                        "functionName": "source",
+                        "line": 159
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 158
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 22,
+                        "durationMicroseconds": 40,
+                        "errorMessage": "Cannot access value for name activeTab",
+                        "functionName": "visible",
+                        "line": 171
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 19,
+                        "durationMicroseconds": 23,
+                        "errorMessage": "Cannot access value for name activeTab",
+                        "functionName": "text",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 71,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 170
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 25,
+                        "durationMicroseconds": 156,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 47,
+                        "durationMicroseconds": 946,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 69,
+                        "durationMicroseconds": 160,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 184
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 247,
+                        "errorMessage": "",
+                        "functionName": "bottom",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 52,
+                        "durationMicroseconds": 137,
+                        "errorMessage": "",
+                        "functionName": "left",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 72,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "right",
+                        "line": 189
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 27,
+                        "durationMicroseconds": 69,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 195
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 114,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 199
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name tempLeft",
+                        "functionName": "text",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 97,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 134,
+                        "durationMicroseconds": 151,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 200
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 127,
+                        "durationMicroseconds": 249,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 201
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 113,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 140,
+                        "durationMicroseconds": 147,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 210
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 132,
+                        "durationMicroseconds": 142,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 211
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 28,
+                        "durationMicroseconds": 571,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 216
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 52,
+                        "durationMicroseconds": 601,
+                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "functionName": "color",
+                        "line": 218
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 43,
+                        "durationMicroseconds": 96,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 221
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 61,
+                        "durationMicroseconds": 126,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 144,
+                        "durationMicroseconds": 176,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 222
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 153,
+                        "durationMicroseconds": 170,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 57,
+                        "durationMicroseconds": 169,
+                        "errorMessage": "",
+                        "functionName": "family",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 140,
+                        "durationMicroseconds": 157,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 228
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 129,
+                        "durationMicroseconds": 143,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 229
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 35,
+                        "durationMicroseconds": 118,
+                        "errorMessage": "",
+                        "functionName": "alignment",
+                        "line": 236
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 30,
+                        "durationMicroseconds": 49,
+                        "errorMessage": "Cannot access value for name tempRight",
+                        "functionName": "text",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 98,
+                        "durationMicroseconds": 112,
+                        "errorMessage": "",
+                        "functionName": "weight",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 135,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 127,
+                        "durationMicroseconds": 154,
+                        "errorMessage": "",
+                        "functionName": "horizontalCenter",
+                        "line": 238
+                    }
+                ],
+                "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/components/NavButton.qml"
+            }
+        ],
+        "moduleId": "HMI_Car(appHMI_Car)"
+    }
+]

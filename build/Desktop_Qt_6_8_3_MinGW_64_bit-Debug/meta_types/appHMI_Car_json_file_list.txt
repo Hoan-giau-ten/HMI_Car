@@ -1,0 +1,2 @@
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/appHMI_Car_autogen/include/../UVLADIE3JM/moc_climatebackend.cpp.json
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/appHMI_Car_autogen/include/../UVLADIE3JM/moc_vehiclebackend.cpp.json

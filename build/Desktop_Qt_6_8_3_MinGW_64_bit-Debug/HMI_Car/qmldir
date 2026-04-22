@@ -1,0 +1,17 @@
+module HMI_Car
+typeinfo appHMI_Car.qmltypes
+prefer :/qt/qml/HMI_Car/
+Main 254.0 Main.qml
+Style 254.0 Style.qml
+MediaScreen 254.0 MediaScreen.qml
+VehicleScreen 254.0 VehicleScreen.qml
+SettingsScreen 254.0 SettingsScreen.qml
+PhoneScreen 254.0 PhoneScreen.qml
+HomeScreen 254.0 HomeScreen.qml
+NavButton 254.0 components/NavButton.qml
+ActionBtn 254.0 components/ActionBtn.qml
+TireLabel 254.0 components/TireLabel.qml
+AdasToggle 254.0 components/AdasToggle.qml
+HeaderBtn 254.0 components/HeaderBtn.qml
+DialKey 254.0 components/DialKey.qml
+

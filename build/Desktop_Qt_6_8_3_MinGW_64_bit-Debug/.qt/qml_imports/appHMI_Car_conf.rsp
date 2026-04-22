@@ -1,0 +1,15 @@
+-rootPath
+C:/Users/ADMIN/Documents/QT/HMI_car
+-cmake-output
+-output-file
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/qml_imports/appHMI_Car_conf.cmake
+-importPath
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/HMI_Car
+-importPath
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug
+-importPath
+C:/Qt/6.8.3/mingw_64/qml
+-qrcFiles
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/qmake_HMI_Car.qrc
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/appHMI_Car_raw_qml_0.qrc
+C:/Users/ADMIN/Documents/QT/HMI_car/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/.qt/rcc/appHMI_Car_raw_qml_0_extra_qmldirs.qrc
