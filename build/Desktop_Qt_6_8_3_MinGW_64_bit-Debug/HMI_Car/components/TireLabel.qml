@@ -9,7 +9,7 @@ Rectangle {
     radius: 14
     color: Qt.rgba(15/255, 18/255, 20/255, 0.85)
     border.width: 1
-    border.color: Qt.rgba(0, 227/255, 253/255, 0.2)
+    border.color: Qt.rgba(Style.themeColor.r, Style.themeColor.g, Style.themeColor.b, 0.3)
 
     Column {
         anchors.centerIn: parent
@@ -37,7 +37,7 @@ Rectangle {
 
             Text {
                 text: "PSI"
-                color: "#00e3fd"
+                color: Style.themeColor
                 font.pixelSize: 11
                 font.weight: Font.Bold
                 anchors.baseline: numText.baseline

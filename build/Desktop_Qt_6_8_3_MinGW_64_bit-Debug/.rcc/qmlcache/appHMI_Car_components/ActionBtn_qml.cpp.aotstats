@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 44,
-                        "durationMicroseconds": 110,
+                        "durationMicroseconds": 140,
                         "errorMessage": "Cannot access value for name labelText",
                         "functionName": "text",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 179,
+                        "durationMicroseconds": 208,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 8
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 106,
-                        "durationMicroseconds": 137,
+                        "durationMicroseconds": 126,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 8
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 36,
+                        "durationMicroseconds": 39,
                         "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/components/ActionBtn.qml)::parent with type QQuickItem does not have a property color for writing",
                         "functionName": "onPressed",
                         "line": 11
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 21,
-                        "durationMicroseconds": 24,
+                        "durationMicroseconds": 23,
                         "errorMessage": "Type (component in C:/Users/ADMIN/Documents/QT/HMI_car/components/ActionBtn.qml)::parent with type QQuickItem does not have a property color for writing",
                         "functionName": "onReleased",
                         "line": 12

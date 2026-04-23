@@ -1,5 +1,6 @@
 import QtQuick
 import QtQuick.Layouts
+import HMI_Car
 
 Rectangle {
     property string icon
@@ -20,12 +21,7 @@ Rectangle {
         anchors.margins: 20
         spacing: 16
 
-        Text {
-            text: icon
-            font.family: mainWindow.globalIconFont
-            color: iconColor
-            font.pixelSize: 32
-        }
+        Text { text: icon; font.family: mainWindow.globalIconFont; color: isOn ? Style.themeColor : "#ababac"; font.pixelSize: 32 }
 
         Column {
             Layout.fillWidth: true
@@ -49,8 +45,9 @@ Rectangle {
             width: 60
             height: 32
             radius: 16
-            color: isOn ? "#81ecff" : "#252627"
-            border.width: 2; border.color: isOn ? "#00e3fd" : "#454749"
+            color: isOn ? Style.themeMuted : "#252627"
+            border.width: 2
+            border.color: isOn ? Style.themeColor : "#454749"
 
             Behavior on color { ColorAnimation { duration: 250 } }
 

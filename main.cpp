@@ -3,7 +3,7 @@
 #include <QFontDatabase>
 #include <QQmlContext>
 #include <QDebug>
-#include "src/climatebackend.h".h"
+#include "src/climatebackend.h"
 #include "src/vehiclebackend.h"
 
 int main(int argc, char *argv[])

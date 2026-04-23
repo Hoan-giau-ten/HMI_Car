@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 12,
-                        "durationMicroseconds": 881,
+                        "durationMicroseconds": 799,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 10
@@ -14,15 +14,15 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 508,
-                        "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
+                        "durationMicroseconds": 2645,
+                        "errorMessage": "Cannot load property themeColor from const QMetaObject.",
                         "functionName": "color",
                         "line": 12
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 27,
-                        "durationMicroseconds": 108,
+                        "durationMicroseconds": 106,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 15
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 19,
-                        "durationMicroseconds": 58,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Cannot access value for name title",
                         "functionName": "text",
                         "line": 19
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 168,
+                        "durationMicroseconds": 93,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 22
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 163,
+                        "durationMicroseconds": 127,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 24
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 146,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "horizontalCenter",
                         "line": 28
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 30,
                         "errorMessage": "Cannot access value for name psi",
                         "functionName": "text",
                         "line": 33
@@ -70,15 +70,23 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 50,
-                        "durationMicroseconds": 111,
+                        "durationMicroseconds": 71,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 35
                     },
                     {
+                        "codegenSuccessfull": false,
+                        "column": 24,
+                        "durationMicroseconds": 21,
+                        "errorMessage": "Cannot load property themeColor from const QMetaObject.",
+                        "functionName": "color",
+                        "line": 40
+                    },
+                    {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 110,
+                        "durationMicroseconds": 68,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 42
@@ -86,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 170,
+                        "durationMicroseconds": 111,
                         "errorMessage": "",
                         "functionName": "baseline",
                         "line": 43

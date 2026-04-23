@@ -3,6 +3,22 @@
         "moduleFiles": [
             {
                 "entries": [
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 224,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "themeColor",
+                        "line": 7
+                    },
+                    {
+                        "codegenSuccessfull": false,
+                        "column": 41,
+                        "durationMicroseconds": 75,
+                        "errorMessage": "Cannot access value for name Backend",
+                        "functionName": "themeMuted",
+                        "line": 13
+                    }
                 ],
                 "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/Style.qml"
             }

@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 229,
+                        "durationMicroseconds": 1023,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 105,
+                        "durationMicroseconds": 92,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 14
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 252,
+                        "durationMicroseconds": 233,
                         "errorMessage": "",
                         "functionName": "preferredWidth",
                         "line": 22
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 34,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 124,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 34
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 79,
+                        "durationMicroseconds": 84,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 46
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 61,
-                        "durationMicroseconds": 1573,
+                        "durationMicroseconds": 460,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 47
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 2249,
+                        "durationMicroseconds": 1889,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "model",
                         "line": 61
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 166,
+                        "durationMicroseconds": 148,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 71
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 66,
+                        "durationMicroseconds": 63,
                         "errorMessage": "Cannot access value for name selectedSettingIndex",
                         "functionName": "color",
                         "line": 72
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 35,
-                        "durationMicroseconds": 39,
+                        "durationMicroseconds": 38,
                         "errorMessage": "Cannot access value for name selectedSettingIndex",
                         "functionName": "width",
                         "line": 73
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 35,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 30,
                         "errorMessage": "Cannot access value for name selectedSettingIndex",
                         "functionName": "color",
                         "line": 74
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 91,
+                        "durationMicroseconds": 97,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 79
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 52,
+                        "durationMicroseconds": 55,
                         "errorMessage": "Cannot access value for name selectedSettingIndex",
                         "functionName": "color",
                         "line": 83
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 39,
-                        "durationMicroseconds": 325,
+                        "durationMicroseconds": 316,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 86
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 40,
-                        "durationMicroseconds": 46,
+                        "durationMicroseconds": 73,
                         "errorMessage": "Cannot access value for name selectedSettingIndex",
                         "functionName": "color",
                         "line": 87
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 51,
-                        "durationMicroseconds": 102,
+                        "durationMicroseconds": 85,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 85
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 68,
-                        "durationMicroseconds": 274,
+                        "durationMicroseconds": 306,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 86
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 42,
-                        "durationMicroseconds": 251,
+                        "durationMicroseconds": 306,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 94
@@ -150,7 +150,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 110,
-                        "durationMicroseconds": 141,
+                        "durationMicroseconds": 121,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 94
@@ -158,7 +158,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 42,
-                        "durationMicroseconds": 246,
+                        "durationMicroseconds": 274,
                         "errorMessage": "Cannot access value for name modelData",
                         "functionName": "text",
                         "line": 95
@@ -166,7 +166,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 43,
+                        "durationMicroseconds": 41,
                         "errorMessage": "Cannot access value for name selectedSettingIndex",
                         "functionName": "color",
                         "line": 100
@@ -174,7 +174,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 65,
-                        "durationMicroseconds": 240,
+                        "durationMicroseconds": 278,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
                         "line": 99
@@ -182,7 +182,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 36,
-                        "durationMicroseconds": 168,
+                        "durationMicroseconds": 174,
                         "errorMessage": "Cannot access value for name index",
                         "functionName": "onClicked",
                         "line": 107
@@ -190,7 +190,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 39,
-                        "durationMicroseconds": 97,
+                        "durationMicroseconds": 88,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 106
@@ -198,7 +198,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 213,
+                        "durationMicroseconds": 184,
                         "errorMessage": "",
                         "functionName": "preferredWidth",
                         "line": 118
@@ -206,7 +206,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 205,
+                        "durationMicroseconds": 195,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 122
@@ -214,7 +214,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 69,
+                        "durationMicroseconds": 72,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 121
@@ -222,7 +222,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 58,
-                        "durationMicroseconds": 350,
+                        "durationMicroseconds": 333,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 125
@@ -230,7 +230,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 35,
-                        "durationMicroseconds": 84,
+                        "durationMicroseconds": 81,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 132
@@ -238,7 +238,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 118,
+                        "durationMicroseconds": 108,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 138
@@ -246,7 +246,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 36,
-                        "durationMicroseconds": 111,
+                        "durationMicroseconds": 118,
                         "errorMessage": "",
                         "functionName": "width",
                         "line": 144
@@ -254,7 +254,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 37,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 2925,
                         "errorMessage": "",
                         "functionName": "height",
                         "line": 145
@@ -262,7 +262,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 37,
-                        "durationMicroseconds": 146,
+                        "durationMicroseconds": 158,
                         "errorMessage": "",
                         "functionName": "radius",
                         "line": 146
@@ -270,7 +270,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 74,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 143
@@ -278,7 +278,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 43,
-                        "durationMicroseconds": 591,
+                        "durationMicroseconds": 549,
                         "errorMessage": "Cannot generate efficient code for internal conversion with incompatible or ambiguous types: QVariant -> QColor stored as QVariant",
                         "functionName": "color",
                         "line": 149
@@ -286,7 +286,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 37,
-                        "durationMicroseconds": 156,
+                        "durationMicroseconds": 162,
                         "errorMessage": "",
                         "functionName": "radius",
                         "line": 156
@@ -294,7 +294,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 74,
+                        "durationMicroseconds": 98,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 153
@@ -302,7 +302,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 67,
+                        "durationMicroseconds": 76,
                         "errorMessage": "",
                         "functionName": "centerIn",
                         "line": 162
@@ -310,7 +310,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 53,
-                        "durationMicroseconds": 49,
+                        "durationMicroseconds": 55,
                         "errorMessage": "Cannot access value for name index",
                         "functionName": "i",
                         "line": 173
@@ -318,7 +318,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 59,
-                        "durationMicroseconds": 374,
+                        "durationMicroseconds": 428,
                         "errorMessage": "Cannot generate efficient code for storing an array in a non-sequence type",
                         "functionName": "heights",
                         "line": 174
@@ -326,7 +326,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 45,
-                        "durationMicroseconds": 221,
+                        "durationMicroseconds": 234,
                         "errorMessage": "Cannot generate efficient code for LoadElement with non-list base type (component in C:/Users/ADMIN/Documents/QT/HMI_car/SettingsScreen.qml)::heights with type QVariant (stored as QJSValue)",
                         "functionName": "height",
                         "line": 176
@@ -334,7 +334,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 48,
-                        "durationMicroseconds": 117,
+                        "durationMicroseconds": 116,
                         "errorMessage": "",
                         "functionName": "loops",
                         "line": 181
@@ -342,7 +342,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 49,
-                        "durationMicroseconds": 55,
+                        "durationMicroseconds": 62,
                         "errorMessage": "Cannot access value for name heights",
                         "functionName": "to",
                         "line": 183
@@ -350,7 +350,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 58,
-                        "durationMicroseconds": 99,
+                        "durationMicroseconds": 112,
                         "errorMessage": "",
                         "functionName": "type",
                         "line": 185
@@ -358,7 +358,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 49,
-                        "durationMicroseconds": 44,
+                        "durationMicroseconds": 54,
                         "errorMessage": "Cannot access value for name heights",
                         "functionName": "to",
                         "line": 188
@@ -366,7 +366,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 58,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 104,
                         "errorMessage": "",
                         "functionName": "type",
                         "line": 190
@@ -374,7 +374,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 62,
-                        "durationMicroseconds": 140,
+                        "durationMicroseconds": 120,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 208
@@ -382,7 +382,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 109,
+                        "durationMicroseconds": 114,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 209
@@ -390,7 +390,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 50,
-                        "durationMicroseconds": 98,
+                        "durationMicroseconds": 114,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 216
@@ -398,7 +398,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 86,
-                        "durationMicroseconds": 143,
+                        "durationMicroseconds": 132,
                         "errorMessage": "",
                         "functionName": "weight",
                         "line": 215
@@ -406,7 +406,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 104,
+                        "durationMicroseconds": 105,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 218
@@ -414,7 +414,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 50,
-                        "durationMicroseconds": 96,
+                        "durationMicroseconds": 95,
                         "errorMessage": "",
                         "functionName": "horizontalAlignment",
                         "line": 225
@@ -422,7 +422,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 47,
-                        "durationMicroseconds": 103,
+                        "durationMicroseconds": 163,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 226
@@ -430,7 +430,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 43,
-                        "durationMicroseconds": 95,
+                        "durationMicroseconds": 413,
                         "errorMessage": "",
                         "functionName": "alignment",
                         "line": 234

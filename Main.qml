@@ -11,15 +11,11 @@ Window {
     color: "#0d0e0f"
 
     // ==========================================
-    // VŨ KHÍ TỐI THƯỢNG: LOAD FONT TRỰC TIẾP
+    // LOAD FONT TRỰC TIẾP
     // ==========================================
     FontLoader {
         id: materialFont
-        // Tùy theo cấu hình dự án, thử 1 trong 2 đường dẫn dưới đây:
         source: "qrc:/font/MaterialSymbolsOutlined.ttf"
-
-        // NẾU CHẠY MÀ VẪN HIỆN CHỮ VUÔNG, HÃY XÓA DÒNG TRÊN VÀ BỎ COMMENT DÒNG DƯỚI:
-        // source: "file:fonts/MaterialSymbolsOutlined.ttf"
     }
 
     property string globalIconFont: materialFont.name

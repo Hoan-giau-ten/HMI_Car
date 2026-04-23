@@ -12,6 +12,7 @@ class VehicleBackend : public QObject
     Q_PROPERTY(int range READ range WRITE setRange NOTIFY rangeChanged)
     Q_PROPERTY(bool isDriving READ isDriving WRITE setIsDriving NOTIFY isDrivingChanged)
 
+
 public:
     explicit VehicleBackend(QObject *parent = nullptr);
 

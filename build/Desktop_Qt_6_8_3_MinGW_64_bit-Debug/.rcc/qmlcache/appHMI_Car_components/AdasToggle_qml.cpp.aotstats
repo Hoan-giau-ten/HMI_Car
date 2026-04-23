@@ -6,14 +6,14 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 268,
+                        "durationMicroseconds": 226,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 19
+                        "line": 20
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 19,
+                        "column": 22,
                         "durationMicroseconds": 60,
                         "errorMessage": "Cannot access value for name icon",
                         "functionName": "text",
@@ -21,107 +21,107 @@
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 20,
-                        "durationMicroseconds": 27,
-                        "errorMessage": "Cannot access value for name iconColor",
+                        "column": 75,
+                        "durationMicroseconds": 32,
+                        "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
-                        "line": 26
+                        "line": 24
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 26,
-                        "durationMicroseconds": 347,
+                        "column": 41,
+                        "durationMicroseconds": 328,
                         "errorMessage": "Cannot access value for name mainWindow",
                         "functionName": "family",
-                        "line": 25
+                        "line": 24
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 34,
+                        "durationMicroseconds": 36,
                         "errorMessage": "Cannot access value for name title",
                         "functionName": "text",
-                        "line": 35
+                        "line": 31
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 30,
-                        "durationMicroseconds": 167,
+                        "durationMicroseconds": 159,
                         "errorMessage": "",
                         "functionName": "weight",
-                        "line": 38
+                        "line": 34
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 23,
-                        "durationMicroseconds": 31,
+                        "durationMicroseconds": 33,
                         "errorMessage": "Cannot access value for name subtitle",
                         "functionName": "text",
-                        "line": 42
+                        "line": 38
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 35,
+                        "durationMicroseconds": 31,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
-                        "line": 52
+                        "line": 48
                     },
                     {
                         "codegenSuccessfull": false,
-                        "column": 44,
+                        "column": 27,
                         "durationMicroseconds": 26,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
-                        "line": 53
+                        "line": 50
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 24,
-                        "durationMicroseconds": 28,
+                        "durationMicroseconds": 26,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "color",
-                        "line": 61
+                        "line": 58
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 33,
+                        "durationMicroseconds": 32,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "x",
-                        "line": 63
+                        "line": 60
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 41,
-                        "durationMicroseconds": 193,
+                        "durationMicroseconds": 195,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
-                        "line": 62
+                        "line": 59
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 79,
-                        "durationMicroseconds": 126,
+                        "durationMicroseconds": 117,
                         "errorMessage": "",
                         "functionName": "type",
-                        "line": 65
+                        "line": 62
                     },
                     {
                         "codegenSuccessfull": false,
                         "column": 28,
-                        "durationMicroseconds": 72,
+                        "durationMicroseconds": 39,
                         "errorMessage": "Cannot access value for name isOn",
                         "functionName": "onClicked",
-                        "line": 70
+                        "line": 67
                     },
                     {
                         "codegenSuccessfull": true,
                         "column": 31,
-                        "durationMicroseconds": 114,
+                        "durationMicroseconds": 78,
                         "errorMessage": "",
                         "functionName": "fill",
-                        "line": 69
+                        "line": 66
                     }
                 ],
                 "filepath": "C:/Users/ADMIN/Documents/QT/HMI_car/components/AdasToggle.qml"
