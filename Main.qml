@@ -199,94 +199,94 @@ Window {
         }
 
         RowLayout {
-                    anchors.fill: parent
-                    anchors.margins: 48
+            anchors.fill: parent
+            anchors.margins: 48
 
-                    // ------------------------------------------
-                    // CHỖ SỬA 1: CỤM NHIỆT ĐỘ TRÁI (Ghế Lái)
-                    // ------------------------------------------
-                    RowLayout {
-                        Layout.alignment: Qt.AlignVCenter
-                        spacing: 16
+            // ------------------------------------------
+            // CHỖ SỬA 1: CỤM NHIỆT ĐỘ TRÁI (Ghế Lái)
+            // ------------------------------------------
+            RowLayout {
+                Layout.alignment: Qt.AlignVCenter
+                spacing: 16
 
-                        // Nút Giảm nhiệt độ
-                        Text {
-                            text: "chevron_left"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
-                            MouseArea { anchors.fill: parent; onClicked: ClimateAPI.decreaseLeftTemp() }
-                        }
+                // Nút Giảm nhiệt độ
+                Text {
+                    text: "chevron_left"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
+                    MouseArea { anchors.fill: parent; onClicked: ClimateAPI.decreaseLeftTemp() }
+                }
 
-                        // Hiển thị nhiệt độ móc từ C++
-                        Column {
-                            Text { text: ClimateAPI.leftTemp + "°"; color: "#ffffff"; font.pixelSize: 32; font.weight: Font.Bold; anchors.horizontalCenter: parent.horizontalCenter }
-                            Text { text: "TEMP L"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
-                        }
+                // Hiển thị nhiệt độ móc từ C++
+                Column {
+                    Text { text: ClimateAPI.leftTemp + "°"; color: "#ffffff"; font.pixelSize: 32; font.weight: Font.Bold; anchors.horizontalCenter: parent.horizontalCenter }
+                    Text { text: "TEMP L"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
+                }
 
-                        // Nút Tăng nhiệt độ
-                        Text {
-                            text: "chevron_right"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
-                            MouseArea { anchors.fill: parent; onClicked: ClimateAPI.increaseLeftTemp() }
-                        }
-                    }
+                // Nút Tăng nhiệt độ
+                Text {
+                    text: "chevron_right"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
+                    MouseArea { anchors.fill: parent; onClicked: ClimateAPI.increaseLeftTemp() }
+                }
+            }
 
-                    Item { Layout.fillWidth: true } // Khoảng trống đẩy cụm quạt ra giữa
+            Item { Layout.fillWidth: true } // Khoảng trống đẩy cụm quạt ra giữa
 
-                    // ------------------------------------------
-                    // CỤM NÚT QUẠT GIÓ (Ở GIỮA) - Giữ nguyên
-                    // ------------------------------------------
-                    RowLayout {
-                        spacing: 48
+            // ------------------------------------------
+            // CỤM NÚT QUẠT GIÓ (Ở GIỮA) - Giữ nguyên
+            // ------------------------------------------
+            RowLayout {
+                spacing: 48
 
-                        Column {
-                            Text { text: "\ue02c"; font.family: materialFont.name; font.pixelSize: 32; color: "#ababac"; anchors.horizontalCenter: parent.horizontalCenter }
-                            Text { text: "CLIMATE"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
-                        }
+                Column {
+                    Text { text: "\ue02c"; font.family: materialFont.name; font.pixelSize: 32; color: "#ababac"; anchors.horizontalCenter: parent.horizontalCenter }
+                    Text { text: "CLIMATE"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
+                }
 
-                        Rectangle {
-                            width: 120; height: 64
-                            color: Qt.rgba(129/255, 236/255, 255/255, 0.1)
-                            radius: 16
-                            border.width: 1; border.color: Qt.rgba(129/255, 236/255, 255/255, 0.2)
+                Rectangle {
+                    width: 120; height: 64
+                    color: Qt.rgba(129/255, 236/255, 255/255, 0.1)
+                    radius: 16
+                    border.width: 1; border.color: Qt.rgba(129/255, 236/255, 255/255, 0.2)
 
-                            Column {
-                                anchors.centerIn: parent
-                                Text { text: "\ue953"; font.family: materialFont.name; font.pixelSize: 32; color: "#81ecff"; anchors.horizontalCenter: parent.horizontalCenter }
-                                Text { text: "FAN MAX"; color: "#81ecff"; font.pixelSize: 10; font.bold: true; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
-                            }
-                        }
-
-                        Column {
-                            Text { text: "\ue636"; font.family: materialFont.name; font.pixelSize: 32; color: "#ababac"; anchors.horizontalCenter: parent.horizontalCenter }
-                            Text { text: "SEAT"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
-                        }
-                    }
-
-                    Item { Layout.fillWidth: true } // Khoảng trống đẩy cụm ghế phụ sang phải
-
-                    // ------------------------------------------
-                    // CHỖ SỬA 2: CỤM NHIỆT ĐỘ PHẢI (Ghế Phụ)
-                    // ------------------------------------------
-                    RowLayout {
-                        Layout.alignment: Qt.AlignVCenter
-                        spacing: 16
-
-                        // Nút Giảm nhiệt độ
-                        Text {
-                            text: "chevron_left"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
-                            MouseArea { anchors.fill: parent; onClicked: ClimateAPI.decreaseRightTemp() }
-                        }
-
-                        // Hiển thị nhiệt độ móc từ C++
-                        Column {
-                            Text { text: ClimateAPI.rightTemp + "°"; color: "#ffffff"; font.pixelSize: 32; font.weight: Font.Bold; anchors.horizontalCenter: parent.horizontalCenter }
-                            Text { text: "TEMP R"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
-                        }
-
-                        // Nút Tăng nhiệt độ
-                        Text {
-                            text: "chevron_right"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
-                            MouseArea { anchors.fill: parent; onClicked: ClimateAPI.increaseRightTemp() }
-                        }
+                    Column {
+                        anchors.centerIn: parent
+                        Text { text: "\ue953"; font.family: materialFont.name; font.pixelSize: 32; color: "#81ecff"; anchors.horizontalCenter: parent.horizontalCenter }
+                        Text { text: "FAN MAX"; color: "#81ecff"; font.pixelSize: 10; font.bold: true; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
                     }
                 }
+
+                Column {
+                    Text { text: "\ue636"; font.family: materialFont.name; font.pixelSize: 32; color: "#ababac"; anchors.horizontalCenter: parent.horizontalCenter }
+                    Text { text: "SEAT"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
+                }
+            }
+
+            Item { Layout.fillWidth: true } // Khoảng trống đẩy cụm ghế phụ sang phải
+
+            // ------------------------------------------
+            // CHỖ SỬA 2: CỤM NHIỆT ĐỘ PHẢI (Ghế Phụ)
+            // ------------------------------------------
+            RowLayout {
+                Layout.alignment: Qt.AlignVCenter
+                spacing: 16
+
+                // Nút Giảm nhiệt độ
+                Text {
+                    text: "chevron_left"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
+                    MouseArea { anchors.fill: parent; onClicked: ClimateAPI.decreaseRightTemp() }
+                }
+
+                // Hiển thị nhiệt độ móc từ C++
+                Column {
+                    Text { text: ClimateAPI.rightTemp + "°"; color: "#ffffff"; font.pixelSize: 32; font.weight: Font.Bold; anchors.horizontalCenter: parent.horizontalCenter }
+                    Text { text: "TEMP R"; color: "#ababac"; font.pixelSize: 10; font.letterSpacing: 2; anchors.horizontalCenter: parent.horizontalCenter }
+                }
+
+                // Nút Tăng nhiệt độ
+                Text {
+                    text: "chevron_right"; font.family: mainWindow.globalIconFont; color: "#ababac"; font.pixelSize: 32
+                    MouseArea { anchors.fill: parent; onClicked: ClimateAPI.increaseRightTemp() }
+                }
+            }
+        }
     }
 }
